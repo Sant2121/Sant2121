@@ -56,10 +56,9 @@ Built using **FastAPI** + **OpenAI API** with structured prompt responses.
 
 ## 🏆 Highlights
 
-- 🗣️ **TEDx Speaker:** _Technology & Truth in the Digital Age_ ([Watch Talk](https://www.youtube.com/watch?v=DD7fo8Yv9Lc))  
+- 🗣️ **TEDx Speaker:**  ([Watch Talk](https://www.youtube.com/watch?v=DD7fo8Yv9Lc))  
 - 📘 **Published Author:** 3 books on technology, truth, and human behavior  
-- 🏅 **Top Performer** at KPMG India for 5 consecutive years  
-- 🔗 **Blockchain Developer Certification** — Polygon / Alchemy Road to Web3  
+- 🏅 **Top Ranked Performer** at KPMG India for 5 consecutive years  
 
 ---
 
