@@ -30,6 +30,12 @@ My passion lies in combining **AI, authenticity, and automation** to build ethic
 
 ## 🚀 Featured Projects
 
+### 🧠 [Enterprise AI Knowledge Copilot](https://github.com/Sant2121/enterprise-ai-copilot)
+Production-ready enterprise AI assistant that enables contextual Q&A across large document collections using Retrieval Augmented Generation (RAG).  
+Built with **FastAPI**, **semantic embeddings**, **FAISS vector search**, and **LLM-powered responses with document citations**.
+
+
+
 ### 🧠 [AI Media Similarity Detector](https://github.com/Sant2121/ai-media-similarity-detector)
 Detects semantic and visual similarity between images using OpenAI CLIP embeddings.  
 Built with **FastAPI** backend and **transformer-based embeddings**.
