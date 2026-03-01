@@ -30,11 +30,11 @@ My passion lies in combining **AI, authenticity, and automation** to build ethic
 
 ## 🚀 Featured Projects
 
-### 🧠 [Enterprise AI Knowledge Copilot](https://github.com/Sant2121/enterprise-ai-copilot)[https://github.com/Sant2121/Enterprise-AI-Knowledge-Copilot](url)
+### 🧠 [Enterprise AI Knowledge Copilot](https://github.com/Sant2121/enterprise-ai-copilot)
 Production-ready enterprise AI assistant that enables contextual Q&A across large document collections using Retrieval Augmented Generation (RAG).  
 Built with **FastAPI**, **semantic embeddings**, **FAISS vector search**, and **LLM-powered responses with document citations**.
 ---
-### 🧠AI Agent Memory System[https://github.com/Sant2121/AI-Agent-Memory-System](url)
+### 🧠 [AI Agent Memory System](https://github.com/Sant2121/AI-Agent-Memory-System)
 A production-ready persistent memory architecture for AI assistants to store, retrieve, and utilize long-term memory across conversations using vector embeddings and semantic search.
 ---
 ### 🧠 [AI Media Similarity Detector](https://github.com/Sant2121/ai-media-similarity-detector)
